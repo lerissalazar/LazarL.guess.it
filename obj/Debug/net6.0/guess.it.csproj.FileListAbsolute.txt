@@ -1,0 +1,15 @@
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\bin\Debug\net6.0\guess.it.exe
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\bin\Debug\net6.0\guess.it.deps.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\bin\Debug\net6.0\guess.it.runtimeconfig.json
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\bin\Debug\net6.0\guess.it.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\bin\Debug\net6.0\guess.it.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\guess.it.csproj.AssemblyReference.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\guess.it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\guess.it.AssemblyInfoInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\guess.it.AssemblyInfo.cs
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\guess.it.csproj.CoreCompileInputs.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\guess.it.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\refint\guess.it.dll
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\guess.it.pdb
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\guess.it.genruntimeconfig.cache
+C:\Users\leris\OneDrive\Desktop\CodeStack 22-23\level.1\challenges\llazar.github.challenges\guess.it\obj\Debug\net6.0\ref\guess.it.dll
